@@ -63,3 +63,6 @@ Traceback (most recent call last):
     send_password_reset_email(user)
 NameError: name 'send_password_reset_email' is not defined
 2018-10-19 15:31:09,985 INFO: Microblog startup [in C:\Users\Administrator.PB1501034\microblog\app\__init__.py:32]
+2018-10-19 15:47:52,971 INFO: Microblog startup [in C:\Users\Administrator.PB1501034\microblog\app\__init__.py:47]
+2018-10-19 15:59:38,569 INFO: Microblog startup [in C:\Users\Administrator.PB1501034\microblog\app\__init__.py:49]
+2018-10-19 16:38:42,646 INFO: Microblog startup [in C:\Users\Administrator.PB1501034\microblog\app\__init__.py:51]
